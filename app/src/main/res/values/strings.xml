@@ -1,0 +1,22 @@
+<resources>
+    <string name="start">开始</string>
+
+    <string name="aby_label">辅助服务</string>
+    <string name="aby_desc">开启本服务后，在应用使用过程中可辅助进行点击、滑动、输入等操作。</string>
+
+    <string name="aby_set">打开系统设置：\n1.在辅助功能(无障碍)中，找到并勾选\"accessDemo\"；</string>
+    <string name="aby_setting_title">\"辅助功能(无障碍)\"设置</string>
+    <string name="aby_setting_msg">找到并勾选\"accessDemo\"。</string>
+    <!--<string name="unknow_setting_title">\"未知来源\"设置</string>-->
+    <!--<string name="unknow_setting_msg">找到并勾选\"未知来源\"。</string>-->
+    <string name="yes">确定</string>
+
+    <string name="app_name">AndServer</string>
+
+    <string name="start_server">Start Server</string>
+    <string name="stop_server">Stop Server</string>
+    <string name="start_browse">Open in browser</string>
+
+    <string name="server_stop_succeed">The server has stopped.</string>
+    <string name="server_ip_error">Did not get the server IP address.</string>
+</resources>
